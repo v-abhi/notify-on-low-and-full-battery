@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 
 # go through "readme.d" file
